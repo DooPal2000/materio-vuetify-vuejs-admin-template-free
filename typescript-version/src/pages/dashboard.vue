@@ -14,7 +14,7 @@ const totalProfit = {
   title: 'Total Profit',
   color: 'secondary',
   icon: 'ri-pie-chart-2-line',
-  stats: '$25.6k',
+  stats: '$270.6k',
   change: 42,
   subtitle: 'Weekly Project',
 }
